@@ -60,7 +60,7 @@ The addon provides several settings to customize its behavior:
 
 - **Ministry of Flat**: This addon relies on the Ministry of Flat tool, which must be downloaded and installed separately from [https://www.quelsolaar.com/ministry_of_flat/](https://www.quelsolaar.com/ministry_of_flat/).
 - **Blender Compatibility**: The addon is designed for Blender 2.80 and above.
-- **Feedback**: For questions or feedback, contact me on X (formerly Twitter): [@renaneko3d](https://x.com/renaneko3d).
+- **Feedback**: For questions or feedback, contact me on X (formerly Twitter): [@rentaneko3d](https://x.com/rentaneko3d).
 
 ---
 
