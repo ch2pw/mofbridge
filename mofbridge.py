@@ -13,7 +13,7 @@ bl_info = {
     "version": (1, 1),
     "author": "rentanek0",
     "doc_url": "https://www.quelsolaar.com/ministry_of_flat/",
-    "tracker_url":"https://www.quelsolaar.com/ministry_of_flat/",
+    "tracker_url":"https://github.com/garanovich/mofbridge/",
 }
 
 class MyAddonPreferences(bpy.types.AddonPreferences):
