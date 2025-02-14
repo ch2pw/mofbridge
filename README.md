@@ -1,6 +1,6 @@
 # Blender Ministry of Flat Bridge Addon
 
-This addon serves as a bridge between Blender and the **Ministry of Flat** UV unwrapping tool, available at [https://www.quelsolaar.com/ministry_of_flat/](https://www.quelsolaar.com/ministry_of_flat/). It automates the process of exporting objects from Blender, unwrapping their UVs using Ministry of Flat, and reimporting the results back into Blender. The initial idea for this addon was written in the article [https://techracho.bpsinc.jp/ecn/2024_08_22/144348](https://techracho.bpsinc.jp/ecn/2024_08_22/144348) by [@techracho](https://x.com/techracho). 
+This addon serves as a bridge between Blender and the **Ministry of Flat** UV unwrapping tool, available at [https://www.quelsolaar.com/ministry_of_flat/](https://www.quelsolaar.com/ministry_of_flat/). It automates the process of exporting objects from Blender, unwrapping their UVs using Ministry of Flat, and reimporting the results back into Blender. The initial version for this addon was written in the article [https://techracho.bpsinc.jp/ecn/2024_08_22/144348](https://techracho.bpsinc.jp/ecn/2024_08_22/144348) by [@techracho](https://x.com/techracho). 
 
 ## Installation
 
@@ -67,7 +67,7 @@ The addon provides several settings to customize its behavior:
 ## Credits
 
 - **Ministry of Flat**: Developed by [Quel Solaar](https://www.quelsolaar.com/).
-- **Inspiration**: The initial idea for this addon was written in the article [https://techracho.bpsinc.jp/ecn/2024_08_22/144348](https://techracho.bpsinc.jp/ecn/2024_08_22/144348).
+- **Inspiration**: The initial version for this addon was written in the article [https://techracho.bpsinc.jp/ecn/2024_08_22/144348](https://techracho.bpsinc.jp/ecn/2024_08_22/144348).
 - **Developer**: [@renaneko3d](https://x.com/renaneko3d).
 
 ---
