@@ -68,7 +68,7 @@ The addon provides several settings to customize its behavior:
 
 - **Ministry of Flat**: Developed by [Quel Solaar](https://www.quelsolaar.com/).
 - **Inspiration**: The initial version for this addon was written in the article [https://techracho.bpsinc.jp/ecn/2024_08_22/144348](https://techracho.bpsinc.jp/ecn/2024_08_22/144348).
-- **Developer**: [@renaneko3d](https://x.com/renaneko3d).
+- **Developer**: [@rentaneko3d](https://x.com/rentaneko3d).
 
 ---
 
