@@ -8,7 +8,7 @@ This addon serves as a bridge between Blender and the **Ministry of Flat** UV un
 2. Open Blender and go to `Edit > Preferences > Add-ons`.
 3. Click `Install...` and select the downloaded `.py` file.
 4. Enable the addon by checking the box next to it.
-5. Select the path to Ministry of Flat executables directory.
+5. Select **the path to Ministry of Flat executables** in the addon settings.
 
 ---
 
